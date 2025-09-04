@@ -12,8 +12,10 @@
 
 ## 📚 Resources
 
-- [![Explode into Guides](https://img.shields.io/badge/Explode_into_Guides-NOW-ff0000?style=plastic&labelColor=1a1a1a)](https://github.com/CorelDRAWPowerHub/CorelDRAW-MasterGuide)
- 
+<a href="https://github.com/CorelDRAWPowerHub/CorelDRAW-MasterGuide" target="_blank">
+  <img src="https://img.shields.io/badge/Explode_into_Guides-NOW-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
+</a>
+  
 
 ---
 
